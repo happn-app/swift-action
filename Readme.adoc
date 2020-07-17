@@ -1,0 +1,4 @@
+= Swift Action
+François Lamboley <francois.lamboley@happn.fr>
+
+A protocol dependency to create “Action”s in Swift.
