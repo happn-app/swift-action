@@ -4,7 +4,7 @@ import PackageDescription
 
 
 let package = Package(
-	name: "Action",
+	name: "swift-action",
 	products: [
 		.library(name: "Action", targets: ["Action"])
 	],
