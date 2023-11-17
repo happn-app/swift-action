@@ -1,4 +1,11 @@
 = Swift Action
 François Lamboley <francois.lamboley@happn.fr>
 
+---
+
+NOTE: This repo is no longer maintained by happn. +
+A maintained version is available from its creator at https://github.com/Frizlab/swift-action[Frizlab/swift-action].
+
+---
+
 A protocol dependency to create “Action”s in Swift.
